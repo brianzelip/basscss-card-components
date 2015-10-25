@@ -1,5 +1,7 @@
 # cards
 
+Operationalizing [Basscss' Boxes](http://www.basscss.com/docs/guides/ui/) (made up of atomic/reusable classes) as card modules (made up of component classes based on atomic/reusable classes).
+
 ``` css
 /*
   
